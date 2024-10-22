@@ -365,10 +365,3 @@ function registerRoutes(router: Zero, routes: RouteConfig[]) {
    - Use route parameter types
    - Leverage TypeScript's type inference
 
-Would you like me to elaborate on any specific aspect of the documentation? I can provide:
-
-1. More detailed examples for specific use cases
-2. Deeper technical analysis of the performance optimizations
-3. Additional comparison benchmarks
-4. Specific migration guides from other frameworks
-5. Enhanced security considerations
